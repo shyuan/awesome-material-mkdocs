@@ -31,3 +31,4 @@ Awesome sites use Material for MkDocs Theme
 * [kOps - Kubernetes Operations](https://kops.sigs.k8s.io/)
 * [BFE](https://www.bfe-networks.net/en_us/)
 * [AutoKeras](https://autokeras.com/)
+* [AWS Load Balancer Controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller)
