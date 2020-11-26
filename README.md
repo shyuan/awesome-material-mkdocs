@@ -1,5 +1,5 @@
 # awesome-material-mkdocs
-Awesome sites use Material for MkDocs Theme
+Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs-material/)
 
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 * [RBAC recipes](https://recipes.rbac.dev/)
