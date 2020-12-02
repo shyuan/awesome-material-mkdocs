@@ -32,3 +32,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [BFE](https://www.bfe-networks.net/en_us/)
 * [AutoKeras](https://autokeras.com/)
 * [AWS Load Balancer Controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller)
+* [EKS Distro](https://distro.eks.amazonaws.com/)
