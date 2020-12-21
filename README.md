@@ -35,3 +35,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [EKS Distro](https://distro.eks.amazonaws.com/)
 * [eksctl.io](https://eksctl.io/)
 * [ACK(AWS Controllers for Kubernetes)](https://aws.github.io/aws-controllers-k8s/)
+* [Flux](https://docs.fluxcd.io)
