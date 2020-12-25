@@ -37,3 +37,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [ACK(AWS Controllers for Kubernetes)](https://aws.github.io/aws-controllers-k8s/)
 * [Flux](https://docs.fluxcd.io)
 * [WTF - the terminal dashboard](https://wtfutil.com/)
+* [Lens Documentation](https://docs.k8slens.dev/)
