@@ -39,3 +39,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [WTF - the terminal dashboard](https://wtfutil.com/)
 * [Lens Documentation](https://docs.k8slens.dev/)
 * [Community operators](https://operator-framework.github.io/community-operators/)
+* [NGINX Ingress Controller](https://kubernetes.github.io/-nginx/)
