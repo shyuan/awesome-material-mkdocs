@@ -40,3 +40,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Lens Documentation](https://docs.k8slens.dev/)
 * [Community operators](https://operator-framework.github.io/community-operators/)
 * [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/)
+* [Policy Sentry](https://policy-sentry.readthedocs.io/)
