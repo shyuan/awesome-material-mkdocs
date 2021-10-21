@@ -43,3 +43,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Electron Builder](https://www.electron.build/)
 * [ksqlDB](https://docs.ksqldb.io/)
 * [Renovate](https://docs.renovatebot.com/)
+* [HedgeDoc](https://docs.hedgedoc.org/)
