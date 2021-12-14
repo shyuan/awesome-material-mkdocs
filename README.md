@@ -45,3 +45,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Renovate](https://docs.renovatebot.com/)
 * [HedgeDoc](https://docs.hedgedoc.org/)
 * [OKD.io](https://www.okd.io/)
+* [Uvicorn](https://www.uvicorn.org/)
