@@ -1,6 +1,7 @@
 # awesome-material-mkdocs
 Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs-material/)
 
+* [HedgeDoc](https://docs.hedgedoc.org/)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 * [RBAC recipes](https://recipes.rbac.dev/)
 * [AWS CDK8s Documentation](https://cdk8s.io/docs)
@@ -43,6 +44,5 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Electron Builder](https://www.electron.build/)
 * [ksqlDB](https://docs.ksqldb.io/)
 * [Renovate](https://docs.renovatebot.com/)
-* [HedgeDoc](https://docs.hedgedoc.org/)
 * [OKD.io](https://www.okd.io/)
 * [Uvicorn](https://www.uvicorn.org/)
