@@ -46,3 +46,7 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Renovate](https://docs.renovatebot.com/)
 * [OKD.io](https://www.okd.io/)
 * [Uvicorn](https://www.uvicorn.org/)
+* [Argo Events](https://argoproj.github.io/argo-events/)
+* [Argo Rollouts](https://argoproj.github.io/argo-rollouts/)
+* [Argo CD](https://argo-cd.readthedocs.io/en/stable/)
+* [Argo Workflows](https://argoproj.github.io/argo-workflows/)
