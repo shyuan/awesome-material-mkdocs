@@ -50,3 +50,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Argo Rollouts](https://argoproj.github.io/argo-rollouts/)
 * [Argo CD](https://argo-cd.readthedocs.io/en/stable/)
 * [Argo Workflows](https://argoproj.github.io/argo-workflows/)
+* [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/guides/)
