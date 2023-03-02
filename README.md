@@ -54,3 +54,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [EMR Containers Best Practices](https://aws.github.io/aws-emr-containers-best-practices/)
 * [Amazon EKS Blueprints for Terraform](https://aws-ia.github.io/terraform-aws-eks-blueprints/)
 * [Amazon EKS Blueprints Quick Start](https://aws-quickstart.github.io/cdk-eks-blueprints/)
+* [SimpleLogin Docs](https://simplelogin.io/docs/)
