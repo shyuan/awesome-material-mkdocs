@@ -51,3 +51,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Amazon EKS Blueprints Quick Start](https://aws-quickstart.github.io/cdk-eks-blueprints/)
 * [SimpleLogin Docs](https://simplelogin.io/docs/)
 * [Percona Documentation](https://www.percona.com/software/documentation)
+* [n8n](https://docs.n8n.io/)
