@@ -52,3 +52,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [SimpleLogin Docs](https://simplelogin.io/docs/)
 * [Percona Documentation](https://www.percona.com/software/documentation)
 * [n8n](https://docs.n8n.io/)
+* [AWS MCP Servers](https://awslabs.github.io/mcp/)
