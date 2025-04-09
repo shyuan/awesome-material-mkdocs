@@ -53,3 +53,5 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [Percona Documentation](https://www.percona.com/software/documentation)
 * [n8n](https://docs.n8n.io/)
 * [AWS MCP Servers](https://awslabs.github.io/mcp/)
+* [Astral Ruff](https://docs.astral.sh/ruff/)
+* [Astral uv](https://docs.astral.sh/uv/)
