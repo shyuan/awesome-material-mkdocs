@@ -55,3 +55,4 @@ Awesome sites use [Material for MkDocs Theme](https://squidfunk.github.io/mkdocs
 * [AWS MCP Servers](https://awslabs.github.io/mcp/)
 * [Astral Ruff](https://docs.astral.sh/ruff/)
 * [Astral uv](https://docs.astral.sh/uv/)
+* [Textual](https://textual.textualize.io/)
